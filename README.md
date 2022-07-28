@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:9BB8FC,100:72FCEF&height=300&section=header&text=KimLineless&fontsize=70)
-
+---
 <h3 align='center'>🧩 Tech Stack 🧩</h3>
 <p align='center'>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
