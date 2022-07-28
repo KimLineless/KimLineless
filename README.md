@@ -1,3 +1,5 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:9BB8FC,100:72FCEF&height=300&section=header&text=KimLineless&fontsize=70)
 ---
 <h3 align='center'>🧩 Tech Stack 🧩</h3>
@@ -16,3 +18,5 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimLineless&show_icons=true&theme=radical)
+
+</div>
